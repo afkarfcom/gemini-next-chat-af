@@ -28,7 +28,7 @@ const defaultSetting: DefaultSetting = {
   ttsLang: '',
   ttsVoice: '',
   lang: '',
-  maxHistoryLength: 0,
+  maxHistoryLength: 50,
   assistantIndexUrl: '',
   topP: 0.95,
   topK: 40,

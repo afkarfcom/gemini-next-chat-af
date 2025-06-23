@@ -7,6 +7,7 @@ export const Model: Record<string, string> = {
   'gemini-1.5-flash-latest': 'Gemini 1.5 Flash Latest',
   'gemini-1.5-flash-8b': 'Gemini 1.5 Flash-8B',
   'gemini-1.5-flash-8b-latest': 'Gemini 1.5 Flash-8B Latest',
+  'gemini-2.5-pro': 'Gemini 2.5 Pro',
 }
 
 export const OldVisionModel = ['gemini-pro-vision', 'gemini-1.0-pro-vision-latest']
